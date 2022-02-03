@@ -11,4 +11,7 @@ Informacion detalla por proyecto
   - Requerimiento 1
   - Requerimiento 2
   - Requerimiento 3
+  
+  ![image](https://user-images.githubusercontent.com/98134670/152449201-60fd3a11-ce70-40eb-94ba-cee67195bff7.png)
+
 3. **Encriptacion y Desencriptacion de datos**.- En este proyecto podemos realizar lo siguiente:<br>
